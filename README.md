@@ -23,7 +23,7 @@ Dans l’ensemble, on soutient l’idée que toutes ces informations obtenues vi
 
 - Chef : Flora Estermann
 - Chef-adjoint : Katia Belaid
-- Chef qualité : Tanguy Daurat
+- Chef qualité : Tanguy Dirat
 
 - Samba Seye
 - Célya Marcélo
