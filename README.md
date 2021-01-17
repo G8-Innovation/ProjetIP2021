@@ -21,13 +21,13 @@ Dans l’ensemble, on soutient l’idée que toutes ces informations obtenues vi
 
 ## Membres du groupe
 
-Chef : Flora Estermann
-Chef-adjoint : Katia Belaid
-Chef qualité : Tanguy Daurat
+- Chef : Flora Estermann
+- Chef-adjoint : Katia Belaid
+- Chef qualité : Tanguy Daurat
 
-Samba Seye
-Célya Marcélo
-Théo Saccareau
-Damien Sonneville
-Mélina Audiger
-Jordi Mora Fernandez
+- Samba Seye
+- Célya Marcélo
+- Théo Saccareau
+- Damien Sonneville
+- Mélina Audiger
+- Jordi Mora Fernandez
